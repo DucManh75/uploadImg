@@ -1,0 +1,14 @@
+
+.manh {
+    border-radius: 100%;
+    display: inline-flex;
+    height: 380px;
+    width: 400px;
+    border: 2px solid rgb(33, 177, 221); /* viền */
+    transition: all 1s ease;
+    margin-bottom: 60px;
+  }
+  .manh:hover {
+    transform: scale(1.1);
+    box-shadow: plum;
+  } /* zoom */
